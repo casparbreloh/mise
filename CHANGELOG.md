@@ -1,5 +1,34 @@
 # Changelog
 
+## [2026.7.11](https://github.com/jdx/mise/compare/v2026.7.10..v2026.7.11) - 2026-07-18
+
+### 📦️ Dependency Updates
+
+- update actions/setup-node digest to 2499707 by @renovate[bot] in [#11074](https://github.com/jdx/mise/pull/11074)
+- update ghcr.io/jdx/mise:alpine docker digest to 60f8876 by @renovate[bot] in [#11075](https://github.com/jdx/mise/pull/11075)
+- update rust crate jiff to v0.2.32 by @renovate[bot] in [#11086](https://github.com/jdx/mise/pull/11086)
+- update ghcr.io/jdx/mise:deb docker digest to bdcdb1e by @renovate[bot] in [#11076](https://github.com/jdx/mise/pull/11076)
+- update ghcr.io/jdx/mise:rpm docker digest to d93ee51 by @renovate[bot] in [#11077](https://github.com/jdx/mise/pull/11077)
+- update rust crate ignore to v0.4.28 by @renovate[bot] in [#11083](https://github.com/jdx/mise/pull/11083)
+- update rust docker digest to 9a2cd30 by @renovate[bot] in [#11080](https://github.com/jdx/mise/pull/11080)
+- update jdx/mise-action digest to dad1bfd by @renovate[bot] in [#11078](https://github.com/jdx/mise/pull/11078)
+- update dependency prettier to v3.9.5 by @renovate[bot] in [#11082](https://github.com/jdx/mise/pull/11082)
+- update ghcr.io/jdx/mise:alpine docker digest to f024c27 by @renovate[bot] in [#11085](https://github.com/jdx/mise/pull/11085)
+- update ubuntu:26.04 docker digest to 3131b4c by @renovate[bot] in [#11081](https://github.com/jdx/mise/pull/11081)
+- update rust crate regex to v1.13.0 by @renovate[bot] in [#11088](https://github.com/jdx/mise/pull/11088)
+- update rust crate usage-lib to v3.5.5 by @renovate[bot] in [#11087](https://github.com/jdx/mise/pull/11087)
+
+### 📦 Aqua Registry Updates
+
+#### New Packages (2)
+
+- [`kbrdn1/gwm-cli`](https://github.com/kbrdn1/gwm-cli)
+- [`planetscale/ghcommit`](https://github.com/planetscale/ghcommit)
+
+#### Updated Packages (1)
+
+- [`skaji/relocatable-perl`](https://github.com/skaji/relocatable-perl)
+
 ## [2026.7.10](https://github.com/jdx/mise/compare/v2026.7.8..v2026.7.10) - 2026-07-17
 
 ### 🚀 Features
